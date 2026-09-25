@@ -1,1 +1,4 @@
 Expressão regular: ^1*(0+1)*0*$
+
+
+link para o regex: https://regex101.com/?regex=%5E1*%280%2B1%29*0*%24&testString=101011%0A11010011%0A010010101%0A101%0A0101%0A110011%0A100%0A101000101%0A011&flags=gm&flavor=pcre2&delimiter=%2F
